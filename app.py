@@ -59,7 +59,7 @@ app.layout = html.Div([
             html.Div(
                  className="eight columns",
                  children=[
-                     html.H1("MOVES 2014b  vs. MOVES 3 Start Emission "
+                     html.H1("MOVES 2014b vs. MOVES 3 Start Emission "
                              "Comparison"),
                      dcc.Dropdown(
                          id='pollutant-dropdown',
