@@ -1,0 +1,73 @@
+,moves,year_id,month,day,source_type_id,source_type_name,fuel_type_id,fuel_type_desc,pollutant_id,pollutant_short_name,rate_per_start
+0,MOVES 2014b,2020,July,Weekday,21,Passenger Car,1,Gasoline,2,CO,6.7174812699999995
+1,MOVES 2014b,2020,July,Weekday,21,Passenger Car,1,Gasoline,3,NOx,0.470642825
+2,MOVES 2014b,2020,July,Weekday,21,Passenger Car,1,Gasoline,87,VOC,0.7136909800000001
+3,MOVES 2014b,2020,July,Weekday,21,Passenger Car,2,Diesel Fuel,2,CO,6.00375164
+4,MOVES 2014b,2020,July,Weekday,21,Passenger Car,2,Diesel Fuel,3,NOx,0.29374117439999997
+5,MOVES 2014b,2020,July,Weekday,21,Passenger Car,2,Diesel Fuel,87,VOC,0.46569524
+6,MOVES 2014b,2020,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,2,CO,8.6295365
+7,MOVES 2014b,2020,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,3,NOx,0.0
+8,MOVES 2014b,2020,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,87,VOC,0.0
+9,MOVES 2014b,2030,July,Weekday,21,Passenger Car,1,Gasoline,2,CO,3.90772096
+10,MOVES 2014b,2030,July,Weekday,21,Passenger Car,1,Gasoline,3,NOx,0.21483659314
+11,MOVES 2014b,2030,July,Weekday,21,Passenger Car,1,Gasoline,87,VOC,0.3771333
+12,MOVES 2014b,2030,July,Weekday,21,Passenger Car,2,Diesel Fuel,2,CO,4.13075086
+13,MOVES 2014b,2030,July,Weekday,21,Passenger Car,2,Diesel Fuel,3,NOx,0.18719342600000002
+14,MOVES 2014b,2030,July,Weekday,21,Passenger Car,2,Diesel Fuel,87,VOC,0.25807918799999996
+15,MOVES 2014b,2030,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,2,CO,8.60387678
+16,MOVES 2014b,2030,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,3,NOx,0.0
+17,MOVES 2014b,2030,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,87,VOC,0.0
+18,MOVES 2014b,2040,July,Weekday,21,Passenger Car,1,Gasoline,2,CO,2.36897123
+19,MOVES 2014b,2040,July,Weekday,21,Passenger Car,1,Gasoline,3,NOx,0.116279651
+20,MOVES 2014b,2040,July,Weekday,21,Passenger Car,1,Gasoline,87,VOC,0.18499816
+21,MOVES 2014b,2040,July,Weekday,21,Passenger Car,2,Diesel Fuel,2,CO,2.63475936
+22,MOVES 2014b,2040,July,Weekday,21,Passenger Car,2,Diesel Fuel,3,NOx,0.12186887457
+23,MOVES 2014b,2040,July,Weekday,21,Passenger Car,2,Diesel Fuel,87,VOC,0.132859342
+24,MOVES 2014b,2040,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,2,CO,8.59791
+25,MOVES 2014b,2040,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,3,NOx,0.0
+26,MOVES 2014b,2040,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,87,VOC,0.0
+27,MOVES 2014b,2050,July,Weekday,21,Passenger Car,1,Gasoline,2,CO,2.06522336
+28,MOVES 2014b,2050,July,Weekday,21,Passenger Car,1,Gasoline,3,NOx,0.10330113188
+29,MOVES 2014b,2050,July,Weekday,21,Passenger Car,1,Gasoline,87,VOC,0.14957669
+30,MOVES 2014b,2050,July,Weekday,21,Passenger Car,2,Diesel Fuel,2,CO,2.31257191
+31,MOVES 2014b,2050,July,Weekday,21,Passenger Car,2,Diesel Fuel,3,NOx,0.10903836136
+32,MOVES 2014b,2050,July,Weekday,21,Passenger Car,2,Diesel Fuel,87,VOC,0.108131799
+33,MOVES 2014b,2050,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,2,CO,8.59791
+34,MOVES 2014b,2050,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,3,NOx,0.0
+35,MOVES 2014b,2050,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,87,VOC,0.0
+36,MOVES 3,2020,July,Weekday,21,Passenger Car,1,Gasoline,2,CO,4.69863202
+37,MOVES 3,2020,July,Weekday,21,Passenger Car,1,Gasoline,3,NOx,0.21539561549
+38,MOVES 3,2020,July,Weekday,21,Passenger Car,1,Gasoline,87,VOC,0.41847592
+39,MOVES 3,2020,July,Weekday,21,Passenger Car,2,Diesel Fuel,2,CO,5.06706329
+40,MOVES 3,2020,July,Weekday,21,Passenger Car,2,Diesel Fuel,3,NOx,0.22708148150000002
+41,MOVES 3,2020,July,Weekday,21,Passenger Car,2,Diesel Fuel,87,VOC,0.5163032700000001
+42,MOVES 3,2020,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,2,CO,7.784319999999999
+43,MOVES 3,2020,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,3,NOx,4.03812
+44,MOVES 3,2020,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,87,VOC,0.0218456
+45,MOVES 3,2030,July,Weekday,21,Passenger Car,1,Gasoline,2,CO,2.65840165
+46,MOVES 3,2030,July,Weekday,21,Passenger Car,1,Gasoline,3,NOx,0.10408916340999999
+47,MOVES 3,2030,July,Weekday,21,Passenger Car,1,Gasoline,87,VOC,0.21083881
+48,MOVES 3,2030,July,Weekday,21,Passenger Car,2,Diesel Fuel,2,CO,2.39943034
+49,MOVES 3,2030,July,Weekday,21,Passenger Car,2,Diesel Fuel,3,NOx,0.10148966899
+50,MOVES 3,2030,July,Weekday,21,Passenger Car,2,Diesel Fuel,87,VOC,0.201872518
+51,MOVES 3,2030,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,2,CO,6.38576
+52,MOVES 3,2030,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,3,NOx,5.18577
+53,MOVES 3,2030,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,87,VOC,0.0280542
+54,MOVES 3,2040,July,Weekday,21,Passenger Car,1,Gasoline,2,CO,1.98962407
+55,MOVES 3,2040,July,Weekday,21,Passenger Car,1,Gasoline,3,NOx,0.08092963705999999
+56,MOVES 3,2040,July,Weekday,21,Passenger Car,1,Gasoline,87,VOC,0.14741654999999998
+57,MOVES 3,2040,July,Weekday,21,Passenger Car,2,Diesel Fuel,2,CO,1.8779960489999998
+58,MOVES 3,2040,July,Weekday,21,Passenger Car,2,Diesel Fuel,3,NOx,0.08396505847
+59,MOVES 3,2040,July,Weekday,21,Passenger Car,2,Diesel Fuel,87,VOC,0.143109489
+60,MOVES 3,2040,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,2,CO,6.177009999999999
+61,MOVES 3,2040,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,3,NOx,5.32947
+62,MOVES 3,2040,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,87,VOC,0.0288316
+63,MOVES 3,2050,July,Weekday,21,Passenger Car,1,Gasoline,2,CO,2.02826415
+64,MOVES 3,2050,July,Weekday,21,Passenger Car,1,Gasoline,3,NOx,0.08260550409
+65,MOVES 3,2050,July,Weekday,21,Passenger Car,1,Gasoline,87,VOC,0.14976108999999999
+66,MOVES 3,2050,July,Weekday,21,Passenger Car,2,Diesel Fuel,2,CO,1.9275117899999998
+67,MOVES 3,2050,July,Weekday,21,Passenger Car,2,Diesel Fuel,3,NOx,0.0845458817
+68,MOVES 3,2050,July,Weekday,21,Passenger Car,2,Diesel Fuel,87,VOC,0.14240044100000002
+69,MOVES 3,2050,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,2,CO,6.1236
+70,MOVES 3,2050,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,3,NOx,5.34975
+71,MOVES 3,2050,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,87,VOC,0.0289413
