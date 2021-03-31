@@ -13,9 +13,11 @@ server = app.server
 erlt_df_2014b_3 = pd.read_csv("data/starts_mvs_2014b_3.csv", index_col=0)
 rename_map = {
     "moves": "MOVES",
+    "District": "District",
     "year_id": "Year",
     "month": "Month",
     "day": "Day",
+    "hour_id": "Hour",
     "source_type_name": "Source Type",
     "fuel_type_desc": "Fuel Type",
     "pollutant_short_name": "Pollutant",
@@ -54,7 +56,7 @@ app.layout = html.Div(
                     className="eight columns",
                     children=[
                         html.H1("MOVES 2014b vs. MOVES 3 Start Emission "
-                                "Comparison"),
+                                "Comparison for El Paso"),
                         dcc.Dropdown(
                             id="pollutant-dropdown",
                             options=pollutants_label_value,

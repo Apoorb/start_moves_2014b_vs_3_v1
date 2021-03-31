@@ -1,121 +1,121 @@
-,moves,year_id,month,day,source_type_id,source_type_name,fuel_type_id,fuel_type_desc,pollutant_id,pollutant_short_name,rate_per_start,per_diff
-0,MOVES 2014b,2020,July,Weekday,21,Passenger Car,1,Gasoline,2,CO,6.7174812699999995,-30.05
-1,MOVES 3,2020,July,Weekday,21,Passenger Car,1,Gasoline,2,CO,4.69863202,-30.05
-2,MOVES 2014b,2020,July,Weekday,21,Passenger Car,1,Gasoline,3,NOx,0.470642825,-54.23
-3,MOVES 3,2020,July,Weekday,21,Passenger Car,1,Gasoline,3,NOx,0.21539561549,-54.23
-4,MOVES 2014b,2020,July,Weekday,21,Passenger Car,1,Gasoline,87,VOC,0.7136909800000001,-41.36
-5,MOVES 3,2020,July,Weekday,21,Passenger Car,1,Gasoline,87,VOC,0.41847592,-41.36
-6,MOVES 2014b,2020,July,Weekday,21,Passenger Car,1,Gasoline,100,PM10 Total Exh,0.0081121118,32.49
-7,MOVES 3,2020,July,Weekday,21,Passenger Car,1,Gasoline,100,PM10 Total Exh,0.0107478,32.49
-8,MOVES 2014b,2020,July,Weekday,21,Passenger Car,1,Gasoline,110,PM2.5 Total Exh,0.0071761234000000005,32.49
-9,MOVES 3,2020,July,Weekday,21,Passenger Car,1,Gasoline,110,PM2.5 Total Exh,0.009507718,32.49
-10,MOVES 2014b,2020,July,Weekday,21,Passenger Car,2,Diesel Fuel,2,CO,6.00375164,-15.6
-11,MOVES 3,2020,July,Weekday,21,Passenger Car,2,Diesel Fuel,2,CO,5.06706329,-15.6
-12,MOVES 2014b,2020,July,Weekday,21,Passenger Car,2,Diesel Fuel,3,NOx,0.29374117439999997,-22.69
-13,MOVES 3,2020,July,Weekday,21,Passenger Car,2,Diesel Fuel,3,NOx,0.22708148150000002,-22.69
-14,MOVES 2014b,2020,July,Weekday,21,Passenger Car,2,Diesel Fuel,87,VOC,0.46569524,10.87
-15,MOVES 3,2020,July,Weekday,21,Passenger Car,2,Diesel Fuel,87,VOC,0.5163032700000001,10.87
-16,MOVES 2014b,2020,July,Weekday,21,Passenger Car,2,Diesel Fuel,100,PM10 Total Exh,0.006434858,44.05
-17,MOVES 3,2020,July,Weekday,21,Passenger Car,2,Diesel Fuel,100,PM10 Total Exh,0.009269604,44.05
-18,MOVES 2014b,2020,July,Weekday,21,Passenger Car,2,Diesel Fuel,110,PM2.5 Total Exh,0.005920048000000001,44.05
-19,MOVES 3,2020,July,Weekday,21,Passenger Car,2,Diesel Fuel,110,PM2.5 Total Exh,0.008528012,44.05
-20,MOVES 2014b,2020,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,2,CO,8.6295365,-9.79
-21,MOVES 3,2020,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,2,CO,7.784319999999999,-9.79
-22,MOVES 2014b,2020,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,3,NOx,0.0,inf
-23,MOVES 3,2020,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,3,NOx,4.03812,inf
-24,MOVES 2014b,2020,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,87,VOC,0.0,inf
-25,MOVES 3,2020,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,87,VOC,0.0218456,inf
-26,MOVES 2014b,2020,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,100,PM10 Total Exh,0.01619665,10.95
-27,MOVES 3,2020,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,100,PM10 Total Exh,0.017969390000000002,10.95
-28,MOVES 2014b,2020,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,110,PM2.5 Total Exh,0.014900839999999999,10.95
-29,MOVES 3,2020,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,110,PM2.5 Total Exh,0.01653179,10.95
-30,MOVES 2014b,2030,July,Weekday,21,Passenger Car,1,Gasoline,2,CO,3.90772096,-31.97
-31,MOVES 3,2030,July,Weekday,21,Passenger Car,1,Gasoline,2,CO,2.65840165,-31.97
-32,MOVES 2014b,2030,July,Weekday,21,Passenger Car,1,Gasoline,3,NOx,0.21483659314,-51.55
-33,MOVES 3,2030,July,Weekday,21,Passenger Car,1,Gasoline,3,NOx,0.10408916340999999,-51.55
-34,MOVES 2014b,2030,July,Weekday,21,Passenger Car,1,Gasoline,87,VOC,0.3771333,-44.09
-35,MOVES 3,2030,July,Weekday,21,Passenger Car,1,Gasoline,87,VOC,0.21083881,-44.09
-36,MOVES 2014b,2030,July,Weekday,21,Passenger Car,1,Gasoline,100,PM10 Total Exh,0.0055112903999999996,169.79
-37,MOVES 3,2030,July,Weekday,21,Passenger Car,1,Gasoline,100,PM10 Total Exh,0.014868806,169.79
-38,MOVES 2014b,2030,July,Weekday,21,Passenger Car,1,Gasoline,110,PM2.5 Total Exh,0.0048753936,169.79
-39,MOVES 3,2030,July,Weekday,21,Passenger Car,1,Gasoline,110,PM2.5 Total Exh,0.013153191,169.79
-40,MOVES 2014b,2030,July,Weekday,21,Passenger Car,2,Diesel Fuel,2,CO,4.13075086,-41.91
-41,MOVES 3,2030,July,Weekday,21,Passenger Car,2,Diesel Fuel,2,CO,2.39943034,-41.91
-42,MOVES 2014b,2030,July,Weekday,21,Passenger Car,2,Diesel Fuel,3,NOx,0.18719342600000002,-45.78
-43,MOVES 3,2030,July,Weekday,21,Passenger Car,2,Diesel Fuel,3,NOx,0.10148966899,-45.78
-44,MOVES 2014b,2030,July,Weekday,21,Passenger Car,2,Diesel Fuel,87,VOC,0.25807918799999996,-21.78
-45,MOVES 3,2030,July,Weekday,21,Passenger Car,2,Diesel Fuel,87,VOC,0.201872518,-21.78
-46,MOVES 2014b,2030,July,Weekday,21,Passenger Car,2,Diesel Fuel,100,PM10 Total Exh,0.0059788475,103.95
-47,MOVES 3,2030,July,Weekday,21,Passenger Car,2,Diesel Fuel,100,PM10 Total Exh,0.012194125,103.95
-48,MOVES 2014b,2030,July,Weekday,21,Passenger Car,2,Diesel Fuel,110,PM2.5 Total Exh,0.0055005175000000005,103.95
-49,MOVES 3,2030,July,Weekday,21,Passenger Car,2,Diesel Fuel,110,PM2.5 Total Exh,0.011218558699999999,103.95
-50,MOVES 2014b,2030,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,2,CO,8.60387678,-25.78
-51,MOVES 3,2030,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,2,CO,6.38576,-25.78
-52,MOVES 2014b,2030,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,3,NOx,0.0,inf
-53,MOVES 3,2030,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,3,NOx,5.18577,inf
-54,MOVES 2014b,2030,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,87,VOC,0.0,inf
-55,MOVES 3,2030,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,87,VOC,0.0280542,inf
-56,MOVES 2014b,2030,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,100,PM10 Total Exh,0.0063874399999999994,72.67
-57,MOVES 3,2030,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,100,PM10 Total Exh,0.011029094,72.67
-58,MOVES 2014b,2030,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,110,PM2.5 Total Exh,0.00587642,72.67
-59,MOVES 3,2030,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,110,PM2.5 Total Exh,0.010146722,72.67
-60,MOVES 2014b,2040,July,Weekday,21,Passenger Car,1,Gasoline,2,CO,2.36897123,-16.01
-61,MOVES 3,2040,July,Weekday,21,Passenger Car,1,Gasoline,2,CO,1.98962407,-16.01
-62,MOVES 2014b,2040,July,Weekday,21,Passenger Car,1,Gasoline,3,NOx,0.116279651,-30.4
-63,MOVES 3,2040,July,Weekday,21,Passenger Car,1,Gasoline,3,NOx,0.08092963705999999,-30.4
-64,MOVES 2014b,2040,July,Weekday,21,Passenger Car,1,Gasoline,87,VOC,0.18499816,-20.31
-65,MOVES 3,2040,July,Weekday,21,Passenger Car,1,Gasoline,87,VOC,0.14741654999999998,-20.31
-66,MOVES 2014b,2040,July,Weekday,21,Passenger Car,1,Gasoline,100,PM10 Total Exh,0.0038531607,301.95
-67,MOVES 3,2040,July,Weekday,21,Passenger Car,1,Gasoline,100,PM10 Total Exh,0.015487719,301.95
-68,MOVES 2014b,2040,July,Weekday,21,Passenger Car,1,Gasoline,110,PM2.5 Total Exh,0.0034085822000000003,301.95
-69,MOVES 3,2040,July,Weekday,21,Passenger Car,1,Gasoline,110,PM2.5 Total Exh,0.013700736,301.95
-70,MOVES 2014b,2040,July,Weekday,21,Passenger Car,2,Diesel Fuel,2,CO,2.63475936,-28.72
-71,MOVES 3,2040,July,Weekday,21,Passenger Car,2,Diesel Fuel,2,CO,1.8779960489999998,-28.72
-72,MOVES 2014b,2040,July,Weekday,21,Passenger Car,2,Diesel Fuel,3,NOx,0.12186887457,-31.1
-73,MOVES 3,2040,July,Weekday,21,Passenger Car,2,Diesel Fuel,3,NOx,0.08396505847,-31.1
-74,MOVES 2014b,2040,July,Weekday,21,Passenger Car,2,Diesel Fuel,87,VOC,0.132859342,7.72
-75,MOVES 3,2040,July,Weekday,21,Passenger Car,2,Diesel Fuel,87,VOC,0.143109489,7.72
-76,MOVES 2014b,2040,July,Weekday,21,Passenger Car,2,Diesel Fuel,100,PM10 Total Exh,0.0046248855,185.1
-77,MOVES 3,2040,July,Weekday,21,Passenger Car,2,Diesel Fuel,100,PM10 Total Exh,0.013185648000000001,185.1
-78,MOVES 2014b,2040,July,Weekday,21,Passenger Car,2,Diesel Fuel,110,PM2.5 Total Exh,0.0042548789,185.1
-79,MOVES 3,2040,July,Weekday,21,Passenger Car,2,Diesel Fuel,110,PM2.5 Total Exh,0.012130776,185.1
-80,MOVES 2014b,2040,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,2,CO,8.59791,-28.16
-81,MOVES 3,2040,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,2,CO,6.177009999999999,-28.16
-82,MOVES 2014b,2040,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,3,NOx,0.0,inf
-83,MOVES 3,2040,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,3,NOx,5.32947,inf
-84,MOVES 2014b,2040,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,87,VOC,0.0,inf
-85,MOVES 3,2040,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,87,VOC,0.0288316,inf
-86,MOVES 2014b,2040,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,100,PM10 Total Exh,0.00410645,148.86
-87,MOVES 3,2040,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,100,PM10 Total Exh,0.0102194,148.86
-88,MOVES 2014b,2040,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,110,PM2.5 Total Exh,0.0037779199999999997,148.86
-89,MOVES 3,2040,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,110,PM2.5 Total Exh,0.00940182,148.86
-90,MOVES 2014b,2050,July,Weekday,21,Passenger Car,1,Gasoline,2,CO,2.06522336,-1.79
-91,MOVES 3,2050,July,Weekday,21,Passenger Car,1,Gasoline,2,CO,2.02826415,-1.79
-92,MOVES 2014b,2050,July,Weekday,21,Passenger Car,1,Gasoline,3,NOx,0.10330113188,-20.03
-93,MOVES 3,2050,July,Weekday,21,Passenger Car,1,Gasoline,3,NOx,0.08260550409,-20.03
-94,MOVES 2014b,2050,July,Weekday,21,Passenger Car,1,Gasoline,87,VOC,0.14957669,0.12
-95,MOVES 3,2050,July,Weekday,21,Passenger Car,1,Gasoline,87,VOC,0.14976108999999999,0.12
-96,MOVES 2014b,2050,July,Weekday,21,Passenger Car,1,Gasoline,100,PM10 Total Exh,0.0034724693,345.17
-97,MOVES 3,2050,July,Weekday,21,Passenger Car,1,Gasoline,100,PM10 Total Exh,0.015458386000000001,345.17
-98,MOVES 2014b,2050,July,Weekday,21,Passenger Car,1,Gasoline,110,PM2.5 Total Exh,0.0030718094999999997,345.17
-99,MOVES 3,2050,July,Weekday,21,Passenger Car,1,Gasoline,110,PM2.5 Total Exh,0.01367483,345.17
-100,MOVES 2014b,2050,July,Weekday,21,Passenger Car,2,Diesel Fuel,2,CO,2.31257191,-16.65
-101,MOVES 3,2050,July,Weekday,21,Passenger Car,2,Diesel Fuel,2,CO,1.9275117899999998,-16.65
-102,MOVES 2014b,2050,July,Weekday,21,Passenger Car,2,Diesel Fuel,3,NOx,0.10903836136,-22.46
-103,MOVES 3,2050,July,Weekday,21,Passenger Car,2,Diesel Fuel,3,NOx,0.0845458817,-22.46
-104,MOVES 2014b,2050,July,Weekday,21,Passenger Car,2,Diesel Fuel,87,VOC,0.108131799,31.69
-105,MOVES 3,2050,July,Weekday,21,Passenger Car,2,Diesel Fuel,87,VOC,0.14240044100000002,31.69
-106,MOVES 2014b,2050,July,Weekday,21,Passenger Car,2,Diesel Fuel,100,PM10 Total Exh,0.004192846599999999,248.66
-107,MOVES 3,2050,July,Weekday,21,Passenger Car,2,Diesel Fuel,100,PM10 Total Exh,0.014618923,248.66
-108,MOVES 2014b,2050,July,Weekday,21,Passenger Car,2,Diesel Fuel,110,PM2.5 Total Exh,0.0038574144,248.66
-109,MOVES 3,2050,July,Weekday,21,Passenger Car,2,Diesel Fuel,110,PM2.5 Total Exh,0.013449341,248.66
-110,MOVES 2014b,2050,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,2,CO,8.59791,-28.78
-111,MOVES 3,2050,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,2,CO,6.1236,-28.78
-112,MOVES 2014b,2050,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,3,NOx,0.0,inf
-113,MOVES 3,2050,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,3,NOx,5.34975,inf
-114,MOVES 2014b,2050,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,87,VOC,0.0,inf
-115,MOVES 3,2050,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,87,VOC,0.0289413,inf
-116,MOVES 2014b,2050,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,100,PM10 Total Exh,0.00410645,143.78
-117,MOVES 3,2050,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,100,PM10 Total Exh,0.0100106,143.78
-118,MOVES 2014b,2050,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,110,PM2.5 Total Exh,0.0037779199999999997,143.78
-119,MOVES 3,2050,July,Weekday,62,Combination Long-haul Truck,2,Diesel Fuel,110,PM2.5 Total Exh,0.00920973,143.78
+,moves,year_id,month,day,hour_id,source_type_id,source_type_name,fuel_type_id,fuel_type_desc,pollutant_id,pollutant_short_name,rate_per_start,per_diff,District
+0,MOVES 2014b,2020,July,Weekday,9,21,Passenger Car,1,Gasoline,2,CO,6.7174812699999995,-30.05,El Paso
+1,MOVES 3,2020,July,Weekday,9,21,Passenger Car,1,Gasoline,2,CO,4.69863202,-30.05,El Paso
+2,MOVES 2014b,2020,July,Weekday,9,21,Passenger Car,1,Gasoline,3,NOx,0.470642825,-54.23,El Paso
+3,MOVES 3,2020,July,Weekday,9,21,Passenger Car,1,Gasoline,3,NOx,0.21539561549,-54.23,El Paso
+4,MOVES 2014b,2020,July,Weekday,9,21,Passenger Car,1,Gasoline,87,VOC,0.7136909800000001,-41.36,El Paso
+5,MOVES 3,2020,July,Weekday,9,21,Passenger Car,1,Gasoline,87,VOC,0.41847592,-41.36,El Paso
+6,MOVES 2014b,2020,July,Weekday,9,21,Passenger Car,1,Gasoline,100,PM10 Total Exh,0.0081121118,32.49,El Paso
+7,MOVES 3,2020,July,Weekday,9,21,Passenger Car,1,Gasoline,100,PM10 Total Exh,0.0107478,32.49,El Paso
+8,MOVES 2014b,2020,July,Weekday,9,21,Passenger Car,1,Gasoline,110,PM2.5 Total Exh,0.0071761234000000005,32.49,El Paso
+9,MOVES 3,2020,July,Weekday,9,21,Passenger Car,1,Gasoline,110,PM2.5 Total Exh,0.009507718,32.49,El Paso
+10,MOVES 2014b,2020,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,2,CO,6.00375164,-15.6,El Paso
+11,MOVES 3,2020,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,2,CO,5.06706329,-15.6,El Paso
+12,MOVES 2014b,2020,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,3,NOx,0.29374117439999997,-22.69,El Paso
+13,MOVES 3,2020,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,3,NOx,0.22708148150000002,-22.69,El Paso
+14,MOVES 2014b,2020,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,87,VOC,0.46569524,10.87,El Paso
+15,MOVES 3,2020,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,87,VOC,0.5163032700000001,10.87,El Paso
+16,MOVES 2014b,2020,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,100,PM10 Total Exh,0.006434858,44.05,El Paso
+17,MOVES 3,2020,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,100,PM10 Total Exh,0.009269604,44.05,El Paso
+18,MOVES 2014b,2020,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,110,PM2.5 Total Exh,0.005920048000000001,44.05,El Paso
+19,MOVES 3,2020,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,110,PM2.5 Total Exh,0.008528012,44.05,El Paso
+20,MOVES 2014b,2020,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,2,CO,8.6295365,-9.79,El Paso
+21,MOVES 3,2020,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,2,CO,7.784319999999999,-9.79,El Paso
+22,MOVES 2014b,2020,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,3,NOx,0.0,inf,El Paso
+23,MOVES 3,2020,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,3,NOx,4.03812,inf,El Paso
+24,MOVES 2014b,2020,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,87,VOC,0.0,inf,El Paso
+25,MOVES 3,2020,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,87,VOC,0.0218456,inf,El Paso
+26,MOVES 2014b,2020,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,100,PM10 Total Exh,0.01619665,10.95,El Paso
+27,MOVES 3,2020,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,100,PM10 Total Exh,0.017969390000000002,10.95,El Paso
+28,MOVES 2014b,2020,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,110,PM2.5 Total Exh,0.014900839999999999,10.95,El Paso
+29,MOVES 3,2020,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,110,PM2.5 Total Exh,0.01653179,10.95,El Paso
+30,MOVES 2014b,2030,July,Weekday,9,21,Passenger Car,1,Gasoline,2,CO,3.90772096,-31.97,El Paso
+31,MOVES 3,2030,July,Weekday,9,21,Passenger Car,1,Gasoline,2,CO,2.65840165,-31.97,El Paso
+32,MOVES 2014b,2030,July,Weekday,9,21,Passenger Car,1,Gasoline,3,NOx,0.21483659314,-51.55,El Paso
+33,MOVES 3,2030,July,Weekday,9,21,Passenger Car,1,Gasoline,3,NOx,0.10408916340999999,-51.55,El Paso
+34,MOVES 2014b,2030,July,Weekday,9,21,Passenger Car,1,Gasoline,87,VOC,0.3771333,-44.09,El Paso
+35,MOVES 3,2030,July,Weekday,9,21,Passenger Car,1,Gasoline,87,VOC,0.21083881,-44.09,El Paso
+36,MOVES 2014b,2030,July,Weekday,9,21,Passenger Car,1,Gasoline,100,PM10 Total Exh,0.0055112903999999996,169.79,El Paso
+37,MOVES 3,2030,July,Weekday,9,21,Passenger Car,1,Gasoline,100,PM10 Total Exh,0.014868806,169.79,El Paso
+38,MOVES 2014b,2030,July,Weekday,9,21,Passenger Car,1,Gasoline,110,PM2.5 Total Exh,0.0048753936,169.79,El Paso
+39,MOVES 3,2030,July,Weekday,9,21,Passenger Car,1,Gasoline,110,PM2.5 Total Exh,0.013153191,169.79,El Paso
+40,MOVES 2014b,2030,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,2,CO,4.13075086,-41.91,El Paso
+41,MOVES 3,2030,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,2,CO,2.39943034,-41.91,El Paso
+42,MOVES 2014b,2030,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,3,NOx,0.18719342600000002,-45.78,El Paso
+43,MOVES 3,2030,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,3,NOx,0.10148966899,-45.78,El Paso
+44,MOVES 2014b,2030,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,87,VOC,0.25807918799999996,-21.78,El Paso
+45,MOVES 3,2030,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,87,VOC,0.201872518,-21.78,El Paso
+46,MOVES 2014b,2030,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,100,PM10 Total Exh,0.0059788475,103.95,El Paso
+47,MOVES 3,2030,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,100,PM10 Total Exh,0.012194125,103.95,El Paso
+48,MOVES 2014b,2030,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,110,PM2.5 Total Exh,0.0055005175000000005,103.95,El Paso
+49,MOVES 3,2030,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,110,PM2.5 Total Exh,0.011218558699999999,103.95,El Paso
+50,MOVES 2014b,2030,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,2,CO,8.60387678,-25.78,El Paso
+51,MOVES 3,2030,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,2,CO,6.38576,-25.78,El Paso
+52,MOVES 2014b,2030,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,3,NOx,0.0,inf,El Paso
+53,MOVES 3,2030,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,3,NOx,5.18577,inf,El Paso
+54,MOVES 2014b,2030,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,87,VOC,0.0,inf,El Paso
+55,MOVES 3,2030,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,87,VOC,0.0280542,inf,El Paso
+56,MOVES 2014b,2030,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,100,PM10 Total Exh,0.0063874399999999994,72.67,El Paso
+57,MOVES 3,2030,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,100,PM10 Total Exh,0.011029094,72.67,El Paso
+58,MOVES 2014b,2030,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,110,PM2.5 Total Exh,0.00587642,72.67,El Paso
+59,MOVES 3,2030,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,110,PM2.5 Total Exh,0.010146722,72.67,El Paso
+60,MOVES 2014b,2040,July,Weekday,9,21,Passenger Car,1,Gasoline,2,CO,2.36897123,-16.01,El Paso
+61,MOVES 3,2040,July,Weekday,9,21,Passenger Car,1,Gasoline,2,CO,1.98962407,-16.01,El Paso
+62,MOVES 2014b,2040,July,Weekday,9,21,Passenger Car,1,Gasoline,3,NOx,0.116279651,-30.4,El Paso
+63,MOVES 3,2040,July,Weekday,9,21,Passenger Car,1,Gasoline,3,NOx,0.08092963705999999,-30.4,El Paso
+64,MOVES 2014b,2040,July,Weekday,9,21,Passenger Car,1,Gasoline,87,VOC,0.18499816,-20.31,El Paso
+65,MOVES 3,2040,July,Weekday,9,21,Passenger Car,1,Gasoline,87,VOC,0.14741654999999998,-20.31,El Paso
+66,MOVES 2014b,2040,July,Weekday,9,21,Passenger Car,1,Gasoline,100,PM10 Total Exh,0.0038531607,301.95,El Paso
+67,MOVES 3,2040,July,Weekday,9,21,Passenger Car,1,Gasoline,100,PM10 Total Exh,0.015487719,301.95,El Paso
+68,MOVES 2014b,2040,July,Weekday,9,21,Passenger Car,1,Gasoline,110,PM2.5 Total Exh,0.0034085822000000003,301.95,El Paso
+69,MOVES 3,2040,July,Weekday,9,21,Passenger Car,1,Gasoline,110,PM2.5 Total Exh,0.013700736,301.95,El Paso
+70,MOVES 2014b,2040,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,2,CO,2.63475936,-28.72,El Paso
+71,MOVES 3,2040,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,2,CO,1.8779960489999998,-28.72,El Paso
+72,MOVES 2014b,2040,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,3,NOx,0.12186887457,-31.1,El Paso
+73,MOVES 3,2040,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,3,NOx,0.08396505847,-31.1,El Paso
+74,MOVES 2014b,2040,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,87,VOC,0.132859342,7.72,El Paso
+75,MOVES 3,2040,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,87,VOC,0.143109489,7.72,El Paso
+76,MOVES 2014b,2040,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,100,PM10 Total Exh,0.0046248855,185.1,El Paso
+77,MOVES 3,2040,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,100,PM10 Total Exh,0.013185648000000001,185.1,El Paso
+78,MOVES 2014b,2040,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,110,PM2.5 Total Exh,0.0042548789,185.1,El Paso
+79,MOVES 3,2040,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,110,PM2.5 Total Exh,0.012130776,185.1,El Paso
+80,MOVES 2014b,2040,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,2,CO,8.59791,-28.16,El Paso
+81,MOVES 3,2040,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,2,CO,6.177009999999999,-28.16,El Paso
+82,MOVES 2014b,2040,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,3,NOx,0.0,inf,El Paso
+83,MOVES 3,2040,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,3,NOx,5.32947,inf,El Paso
+84,MOVES 2014b,2040,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,87,VOC,0.0,inf,El Paso
+85,MOVES 3,2040,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,87,VOC,0.0288316,inf,El Paso
+86,MOVES 2014b,2040,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,100,PM10 Total Exh,0.00410645,148.86,El Paso
+87,MOVES 3,2040,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,100,PM10 Total Exh,0.0102194,148.86,El Paso
+88,MOVES 2014b,2040,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,110,PM2.5 Total Exh,0.0037779199999999997,148.86,El Paso
+89,MOVES 3,2040,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,110,PM2.5 Total Exh,0.00940182,148.86,El Paso
+90,MOVES 2014b,2050,July,Weekday,9,21,Passenger Car,1,Gasoline,2,CO,2.06522336,-1.79,El Paso
+91,MOVES 3,2050,July,Weekday,9,21,Passenger Car,1,Gasoline,2,CO,2.02826415,-1.79,El Paso
+92,MOVES 2014b,2050,July,Weekday,9,21,Passenger Car,1,Gasoline,3,NOx,0.10330113188,-20.03,El Paso
+93,MOVES 3,2050,July,Weekday,9,21,Passenger Car,1,Gasoline,3,NOx,0.08260550409,-20.03,El Paso
+94,MOVES 2014b,2050,July,Weekday,9,21,Passenger Car,1,Gasoline,87,VOC,0.14957669,0.12,El Paso
+95,MOVES 3,2050,July,Weekday,9,21,Passenger Car,1,Gasoline,87,VOC,0.14976108999999999,0.12,El Paso
+96,MOVES 2014b,2050,July,Weekday,9,21,Passenger Car,1,Gasoline,100,PM10 Total Exh,0.0034724693,345.17,El Paso
+97,MOVES 3,2050,July,Weekday,9,21,Passenger Car,1,Gasoline,100,PM10 Total Exh,0.015458386000000001,345.17,El Paso
+98,MOVES 2014b,2050,July,Weekday,9,21,Passenger Car,1,Gasoline,110,PM2.5 Total Exh,0.0030718094999999997,345.17,El Paso
+99,MOVES 3,2050,July,Weekday,9,21,Passenger Car,1,Gasoline,110,PM2.5 Total Exh,0.01367483,345.17,El Paso
+100,MOVES 2014b,2050,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,2,CO,2.31257191,-16.65,El Paso
+101,MOVES 3,2050,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,2,CO,1.9275117899999998,-16.65,El Paso
+102,MOVES 2014b,2050,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,3,NOx,0.10903836136,-22.46,El Paso
+103,MOVES 3,2050,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,3,NOx,0.0845458817,-22.46,El Paso
+104,MOVES 2014b,2050,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,87,VOC,0.108131799,31.69,El Paso
+105,MOVES 3,2050,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,87,VOC,0.14240044100000002,31.69,El Paso
+106,MOVES 2014b,2050,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,100,PM10 Total Exh,0.004192846599999999,248.66,El Paso
+107,MOVES 3,2050,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,100,PM10 Total Exh,0.014618923,248.66,El Paso
+108,MOVES 2014b,2050,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,110,PM2.5 Total Exh,0.0038574144,248.66,El Paso
+109,MOVES 3,2050,July,Weekday,9,21,Passenger Car,2,Diesel Fuel,110,PM2.5 Total Exh,0.013449341,248.66,El Paso
+110,MOVES 2014b,2050,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,2,CO,8.59791,-28.78,El Paso
+111,MOVES 3,2050,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,2,CO,6.1236,-28.78,El Paso
+112,MOVES 2014b,2050,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,3,NOx,0.0,inf,El Paso
+113,MOVES 3,2050,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,3,NOx,5.34975,inf,El Paso
+114,MOVES 2014b,2050,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,87,VOC,0.0,inf,El Paso
+115,MOVES 3,2050,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,87,VOC,0.0289413,inf,El Paso
+116,MOVES 2014b,2050,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,100,PM10 Total Exh,0.00410645,143.78,El Paso
+117,MOVES 3,2050,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,100,PM10 Total Exh,0.0100106,143.78,El Paso
+118,MOVES 2014b,2050,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,110,PM2.5 Total Exh,0.0037779199999999997,143.78,El Paso
+119,MOVES 3,2050,July,Weekday,9,62,Combination Long-haul Truck,2,Diesel Fuel,110,PM2.5 Total Exh,0.00920973,143.78,El Paso
